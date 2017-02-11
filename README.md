@@ -72,7 +72,7 @@ Microsoft Edge is currently unsupported, but if anyone would like to contribute 
 
 ## Contributing
 
-An installation walkthrough, how-to guides for adding new operations, descriptions of the repository structure, available data types and coding conventions can all be found in the project [wiki pages](https://github.com/gchq/CyberChef/wiki).
+An installation walkthrough, how-to guides for adding new operations, descriptions of the repository structure, available data types and coding conventions can all be found in the project [wiki pages](https://github.com/jaswinder97/CyberChef/wiki).
 
  - Sign the [GCHQ Contributor Licence Agreement](https://github.com/gchq/Gaffer/wiki/GCHQ-OSS-Contributor-License-Agreement-V1.0)
  - Push your changes to your fork.
